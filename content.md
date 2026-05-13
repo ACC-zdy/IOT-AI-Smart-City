@@ -696,9 +696,3 @@ URL: [https://www.tech.gov.sg/technews/5-things-to-know-about-virtual-singapore/
 URL: [https://gaia-x.eu/](https://gaia-x.eu/)
 URL: [https://international-data-spaces-association.github.io/DataspaceConnector/Introduction](https://international-data-spaces-association.github.io/DataspaceConnector/Introduction)
 URL: [https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview](https://www.developer.tech.gov.sg/products/categories/sensor-platforms-and-internet-of-things/open-digital-platform/overview)
-
----
-
-这一版可以直接作为后续汇报文档的主体提纲使用。它的结构已经从“方向 brainstorm”转成了更正式的 **研究框架—技术模块—参考体系**，适合继续扩展成导师 meeting memo、PhD research statement 或一页式方向图。
-
-[1]: https://skliotsc.um.edu.mo/about/lab-introduction/?utm_source=chatgpt.com "Lab Introduction"
