@@ -16,9 +16,6 @@
 物联网与系统：LoRaWAN、NB-IoT、5G、MQTT、边缘网关、设备管理、OTA 更新、实时数据流、时空数据库。
 AI 与数字孪生：边缘推理、TinyML、异常检测、传感器校准、时空预测、多源融合、3DGS/点云重建、城市仿真、可信数据共享。
 
-**背景适配性：**
-该路线能够承接微电子/ECE、硬件工程、RISC-V 边缘推理、3DGS/三维视觉、Dataspace Security 等复合背景，形成“硬件—边缘—城市—孪生”的连续研究叙事。
-
 **参考入口：**
 State Key Laboratory of Internet of Things for Smart City, University of Macau
 URL: [https://skliotsc.um.edu.mo/about/lab-introduction/](https://skliotsc.um.edu.mo/about/lab-introduction/)
